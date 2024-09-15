@@ -1,4 +1,4 @@
-# ascribe REST API
+# alts REST API
 
 
 ### Contributing
